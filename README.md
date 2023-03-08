@@ -1,5 +1,5 @@
 # new_task
-               #     **  Terraform Task  **
+                                  **  Terraform Task  **
                       
                 This task includes building complete infrastructure and deploy Nginx to EC2.  
         
@@ -7,10 +7,12 @@
   Linux system  
   Terraform  
   AWS account ( free tier)  
-  
-  
+## REMMEBER TO >> I USE MY OWN PRIVATE KEY WITH THE INSTANCE >> CHANGE THIS
+ ```
+private_key = file("/home/mohamed/ITWIRKS_TASK/aws/ITWORX.pem") >> WITH YOUR OWN PRIVATE KEY ABSLUTE PATH
+```  
 ## Getting Started
-  To use this project, you will need to clone the repository to your local machine using the following command:
+  To use this project, you will need to clone the repository to your local machine using the following command:  
 
   ``` git clone
   git clone https://github.com/Mohamed-Ahmed1694/new_task.git
@@ -37,7 +39,6 @@
 ##Then starting by creating infrastructure using terraform
 
  ``` 
- cd aws  
  terraform init  
  terraform plan  
  terrafrom apply  
