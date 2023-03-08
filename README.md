@@ -1,5 +1,5 @@
 # new_task
-               #     **  Terraform Task  **
+                                  **  Terraform Task  **
                       
                 This task includes building complete infrastructure and deploy Nginx to EC2.  
         
@@ -10,7 +10,7 @@
   
   
 ## Getting Started
-  To use this project, you will need to clone the repository to your local machine using the following command:
+  To use this project, you will need to clone the repository to your local machine using the following command:  
 
   ``` git clone
   git clone https://github.com/Mohamed-Ahmed1694/new_task.git
@@ -37,7 +37,6 @@
 ##Then starting by creating infrastructure using terraform
 
  ``` 
- cd aws  
  terraform init  
  terraform plan  
  terrafrom apply  
