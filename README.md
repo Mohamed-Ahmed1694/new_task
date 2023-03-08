@@ -14,14 +14,16 @@
 
   ``` git clone
   git clone https://github.com/Mohamed-Ahmed1694/new_task.git
+  ```
  
  ## Tools Used:
  Terraform infrastructure as a code to build the infrastructure, Terraform code includes
 
 ``` terraform components
 (VPC - 1 public subnets - 1 public instance  - internet gateway -security group - route tables - nginx install on the instance ).  
+```
 
-## after machine created >> ( the instance make install to nginx >> to access from the internet ) >>
+## after machine created >> ( the instance make install to nginx in automation way >> to access from the internet to nginx ) >>
 ``` install nginx on ec2
       "sudo yum update -y ",  
       "sudo amazon-linux-extras install -y nginx1.12",  
