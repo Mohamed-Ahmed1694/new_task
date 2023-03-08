@@ -7,8 +7,10 @@
   Linux system  
   Terraform  
   AWS account ( free tier)  
-  
-  
+## REMMEBER TO >> I USE MY OWN PRIVATE KEY WITH THE INSTANCE >> CHANGE THIS
+ ```
+private_key = file("/home/mohamed/ITWIRKS_TASK/aws/ITWORX.pem") >> WITH YOUR OWN PRIVATE KEY ABSLUTE PATH
+```  
 ## Getting Started
   To use this project, you will need to clone the repository to your local machine using the following command:  
 
