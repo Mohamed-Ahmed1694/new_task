@@ -1,16 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2023-07-29T08:45:33.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="UuzK38NIw0wTCBBQ5_Va" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-29T09:09:45.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="u9xfP84i2S9UY7ORgbUL" version="21.6.6" type="github">
   <diagram name="Page-1" id="biT-YGSAKw_1VXWfMTr1">
     <mxGraphModel dx="1050" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zbKXCMnSr81tl0BGBho--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zbKXCMnSr81tl0BGBho--1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="712.8" y="130" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="zbKXCMnSr81tl0BGBho--5" value="Pet-Clinic App&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="662.8" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zbKXCMnSr81tl0BGBho--1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="690" y="60" width="45.6" height="61.800000000000004" as="geometry" />
+          <mxGeometry x="700" y="181.8" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="zbKXCMnSr81tl0BGBho--7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="600" y="30" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="zbKXCMnSr81tl0BGBho--8" value="&lt;b&gt;Monitoring Tool&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="562.8" y="91.80000000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zbKXCMnSr81tl0BGBho--11" value="&lt;b&gt;Web-Application&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="662.8" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zbKXCMnSr81tl0BGBho--15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zbKXCMnSr81tl0BGBho--16" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="121.80000000000001" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zbKXCMnSr81tl0BGBho--19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/connected-globe-128.png" vertex="1" parent="1">
+          <mxGeometry x="240" y="182" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="zbKXCMnSr81tl0BGBho--22" value="&lt;b&gt;Client&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbKXCMnSr81tl0BGBho--26" value="&lt;b&gt;Client&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbKXCMnSr81tl0BGBho--27" value="&lt;b&gt;Internet&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="219" y="250" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zbKXCMnSr81tl0BGBho--29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zbKXCMnSr81tl0BGBho--15" target="zbKXCMnSr81tl0BGBho--19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="320" as="sourcePoint" />
+            <mxPoint x="190" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zbKXCMnSr81tl0BGBho--30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zbKXCMnSr81tl0BGBho--16" target="zbKXCMnSr81tl0BGBho--19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119" y="182" as="sourcePoint" />
+            <mxPoint x="219" y="95" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
